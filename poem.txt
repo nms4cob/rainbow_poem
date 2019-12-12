@@ -1,4 +1,4 @@
-This is about rainbow
+This is about rainbow and the unicorn
 red
 orange
 yellow
@@ -9,4 +9,5 @@ and
 violet
 makes the rainbow
 rainbow has seven colours
-it is very beautiful
+it is very beautiful 
+theunicornis also beautiful
